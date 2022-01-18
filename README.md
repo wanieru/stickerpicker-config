@@ -1,0 +1,1 @@
+stickerpicker-config
